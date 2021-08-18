@@ -11,7 +11,7 @@ Editor: vim<br>
 Code-Theme: ayu<br>
 GTK-Theme: [Dracula-Slim](https://github.com/dracula/gtk)<br>
 Icons-Theme: [Flatery](https://www.gnome-look.org/p/1332404)<br>
-Launcher: rofi
+Launcher: rofi<br>
 Font: [Nerd Font](https://github.com/ryanoasis/nerd-fonts.git)
 <br>
 ## Preview
