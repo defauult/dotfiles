@@ -1,4 +1,4 @@
-# dotfiles
+# [i3-gaps ] dotfiles
 My dotfiles from my Desktop
 
 # Info
